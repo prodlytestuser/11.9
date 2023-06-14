@@ -1,0 +1,9 @@
+"Guid","Active__c","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
+25b4b37b-c7e2-4eaa-b6cb-f65804a08c31,false,price rule E2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+39386f85-8a05-48f2-9eb1-42bbd85e854b,false,Price Rule B,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+857b972c-b91a-497f-92c5-cacfa4956e22,false,price rule D,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+88ef09d1-dd45-452d-bda0-f8ec7ac5d270,false,Price Rule C,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+bab936cd-96fd-4fce-8f82-cd97f7157a64,false,Price Rule B,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+c702f4e8-3dc4-4cd8-bfa1-956be31504f1,false,Price Rule C,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+fb24ab1f-f7f5-4a74-a8a3-fa670f9e8bf4,false,Price Rule A 2,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
+ff94cfe7-85df-4aca-b870-31d7305fae45,false,Price Rule A 2,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
